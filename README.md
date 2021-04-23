@@ -5,8 +5,7 @@ Welcome to the iOS interview project for Supermall!
 At a high level, your task is to create an app that compresses, uploads and plays a video.
 
 ### Video
-First, you're going to need the video.
-* Save this video to your iPhone's camera roll - https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/1080/Big_Buck_Bunny_1080_10s_30MB.mp4
+First, you're going to need the video. Please save this video to your iPhone's camera roll - https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/1080/Big_Buck_Bunny_1080_10s_30MB.mp4
 
 ### App
 To pass the test, the app has to include the following:
