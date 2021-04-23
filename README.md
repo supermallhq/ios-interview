@@ -1,4 +1,4 @@
-# Supermall iOS interview project
+# Supermall iOS Interview Project
 
 Welcome to the iOS interview project for Supermall!
 
