@@ -24,6 +24,7 @@ If you're up for it, here are bonus tasks:
 
 ## Requirements
 * Use Swift 5.0 or above.
+* No SwiftUI allowed
 * There should be no errors, warnings or crashes
 * The app should compile and run. If it needs additional setup, include instructions in the README.
 
