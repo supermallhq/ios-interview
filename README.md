@@ -2,7 +2,7 @@ Welcome to the iOS interview project for Supermall!
 
 ### Your Task
 
-On a high level, your task is to create an app that compresses, uploads and plays a video.
+At a high level, your task is to create an app that compresses, uploads and plays a video.
 
 ### Video
 First, you're going to need the video.
