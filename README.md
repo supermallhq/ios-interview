@@ -17,6 +17,7 @@ To pass the test, the app has to include the following:
 ### Bonus
 If you're up for it, here are bonus tasks:
 * Load all the videos from your camera roll into a collection view, sorted by most recent first
+* Show upload progress while the video is uploading
 * Add a model to support captions, hashtags and metadata on each video
 * Add support for your video player to pause/play when the video is tapped
 * Add a play icon overlaid on the video when the video is paused
