@@ -7,7 +7,7 @@ Welcome to the iOS interview project for Supermall!
 At a high level, your task is to create an app that compresses, uploads and plays a video.
 
 ### Time
-This project should take 4-6 hours to complete.
+This project should take 3-6 hours to complete.
 
 ### Video
 First, you're going to need the video. Please save this video to your iPhone's camera roll - https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/1080/Big_Buck_Bunny_1080_10s_30MB.mp4
