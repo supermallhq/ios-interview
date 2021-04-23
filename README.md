@@ -1,4 +1,6 @@
-# Welcome to the iOS interview project for Supermall!
+# Supermall iOS interview project
+
+Welcome to the iOS interview project for Supermall!
 
 ### Your Task
 
