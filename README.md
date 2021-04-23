@@ -9,7 +9,7 @@ First, you're going to need the video. Please save this video to your iPhone's c
 
 ### App
 To pass the test, the app has to include the following:
-* Load the video (Big Buck Bunny) from your camera roll
+* Load the video (Big Buck Bunny) from your iPhone's camera roll
 * Compress the video to under 3MB without changing the resolution (1080p)
 * Upload the compressed video to GCS, AWS or another cloud storage provider
 * Once the upload is complete, display the video with a custom video player
